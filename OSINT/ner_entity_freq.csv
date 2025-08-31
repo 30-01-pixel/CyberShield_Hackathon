@@ -1,0 +1,262 @@
+label,entity_norm,count
+GPE,India,297
+GPE,India Base,2
+GPE,India Approach,1
+GPE,India Away,1
+GPE,India City,1
+GPE,India Direction,1
+GPE,India Easy,1
+GPE,India Husband,1
+GPE,India Page,1
+GPE,India Various,1
+LOC,South,2
+LOC,South Asia Peace Network,2
+LOC,India East,1
+LOC,India Region,1
+LOC,India Relationship,1
+LOC,east east pick,1
+ORG,Congress,9
+ORG,India Weight,4
+ORG,India Financial,3
+ORG,India Future,3
+ORG,India Something,3
+ORG,Amnesty International,2
+ORG,AsiaWatch Network,2
+ORG,Coach,2
+ORG,GlobalNewsNet,2
+ORG,House,2
+ORG,India Across,2
+ORG,India Administration,2
+ORG,India Answer,2
+ORG,India Bring,2
+ORG,India Call,2
+ORG,India Capital,2
+ORG,India Coach,2
+ORG,India Color,2
+ORG,India Computer,2
+ORG,India Conference,2
+ORG,India Cup,2
+ORG,India Develop,2
+ORG,India Difference,2
+ORG,India Edge,2
+ORG,India Energy,2
+ORG,India Everybody,2
+ORG,India Fear,2
+ORG,India Heavy,2
+ORG,India Idea,2
+ORG,India Level,2
+ORG,India Major,2
+ORG,India Material,2
+ORG,India Military,2
+ORG,India Order,2
+ORG,India Owner,2
+ORG,India Participant,2
+ORG,India Party,2
+ORG,India Race,2
+ORG,India Raise,2
+ORG,India Reach,2
+ORG,India Science,2
+ORG,India Team,2
+ORG,India Tough,2
+ORG,India Window,2
+ORG,India Young,2
+ORG,Recognize,2
+ORG,American week,1
+ORG,Authority,1
+ORG,Central,1
+ORG,Door,1
+ORG,Focus news wall,1
+ORG,Freedom Voice,1
+ORG,Global Justice Forum,1
+ORG,India Account,1
+ORG,India Actually,1
+ORG,India Address,1
+ORG,India Agency,1
+ORG,India Agreement,1
+ORG,India Allow,1
+ORG,India Always,1
+ORG,India American,1
+ORG,India Artist,1
+ORG,India Behavior,1
+ORG,India Billion,1
+ORG,India Black,1
+ORG,India Blood,1
+ORG,India Break,1
+ORG,India Budget,1
+ORG,India Business,1
+ORG,India Change,1
+ORG,India Check,1
+ORG,India Child,1
+ORG,India Church,1
+ORG,India Civil,1
+ORG,India Clear,1
+ORG,India Cold,1
+ORG,India College,1
+ORG,India Company,1
+ORG,India Consumer,1
+ORG,India Country,1
+ORG,India Cover,1
+ORG,India Create,1
+ORG,India Data,1
+ORG,India Debate,1
+ORG,India Defense,1
+ORG,India Design,1
+ORG,India Detail,1
+ORG,India Discuss,1
+ORG,India Education,1
+ORG,India Environment,1
+ORG,India Especially,1
+ORG,India Ever,1
+ORG,India Exist,1
+ORG,India Expect,1
+ORG,India Expert,1
+ORG,India Factor,1
+ORG,India Fall,1
+ORG,India Far,1
+ORG,India Fill,1
+ORG,India Find,1
+ORG,India Follow,1
+ORG,India Food,1
+ORG,India Force,1
+ORG,India Front,1
+ORG,India Fund,1
+ORG,India Generation,1
+ORG,India Give,1
+ORG,India Growth,1
+ORG,India Happen,1
+ORG,India Hope,1
+ORG,India Hotel,1
+ORG,India House,1
+ORG,India Identify,1
+ORG,India Image,1
+ORG,India Including,1
+ORG,India Information,1
+ORG,India Interesting,1
+ORG,India International,1
+ORG,India Interview,1
+ORG,India Into,1
+ORG,India Language,1
+ORG,India Leave,1
+ORG,India Light,1
+ORG,India Local,1
+ORG,India Maintain,1
+ORG,India Me,1
+ORG,India Measure,1
+ORG,India Medical,1
+ORG,India Million,1
+ORG,India Money,1
+ORG,India Move,1
+ORG,India Movement,1
+ORG,India Music,1
+ORG,India Nation,1
+ORG,India National,1
+ORG,India None,1
+ORG,India Office,1
+ORG,India Oil,1
+ORG,India Paper,1
+ORG,India Pattern,1
+ORG,India Personal,1
+ORG,India Player,1
+ORG,India Possible,1
+ORG,India Power,1
+ORG,India Probably,1
+ORG,India Process,1
+ORG,India Professional,1
+ORG,India Program,1
+ORG,India Protect,1
+ORG,India Put,1
+ORG,India Realize,1
+ORG,India Reflect,1
+ORG,India Report,1
+ORG,India Represent,1
+ORG,India Rise,1
+ORG,India Rule,1
+ORG,India Run,1
+ORG,India Scene,1
+ORG,India Scientist,1
+ORG,India See,1
+ORG,India Sing,1
+ORG,India Site,1
+ORG,India Smile,1
+ORG,India Social,1
+ORG,India Society,1
+ORG,India Somebody,1
+ORG,India Standard,1
+ORG,India Star,1
+ORG,India Statement,1
+ORG,India Story,1
+ORG,India Student,1
+ORG,India Study,1
+ORG,India System,1
+ORG,India Task,1
+ORG,India Tax,1
+ORG,India Technology,1
+ORG,India Television,1
+ORG,India Test,1
+ORG,India Theory,1
+ORG,India Time,1
+ORG,India Total,1
+ORG,India Trade,1
+ORG,India Tv,1
+ORG,India Visit,1
+ORG,India Watch,1
+ORG,India Wear,1
+ORG,India Worker,1
+ORG,India Worry,1
+ORG,India Writer,1
+ORG,International Herald,1
+ORG,Point,1
+ORG,Resource,1
+ORG,Sea TV,1
+ORG,Speech,1
+ORG,Success,1
+ORG,list international build military room,1
+ORG,sport stock voice movement group,1
+PERSON,Mrs,6
+PERSON,India Song,3
+PERSON,Detail,2
+PERSON,Glass,2
+PERSON,India Law,2
+PERSON,India Add,1
+PERSON,India Adult,1
+PERSON,India Ago,1
+PERSON,India Allow,1
+PERSON,India Amount,1
+PERSON,India Appear,1
+PERSON,India Ball,1
+PERSON,India Base,1
+PERSON,India Bed Mrs,1
+PERSON,India Camera,1
+PERSON,India Car,1
+PERSON,India Case,1
+PERSON,India Daughter,1
+PERSON,India Drop,1
+PERSON,India Focus,1
+PERSON,India Guy,1
+PERSON,India Inside,1
+PERSON,India Interview,1
+PERSON,India Kind,1
+PERSON,India Knowledge,1
+PERSON,India Learn,1
+PERSON,India Method,1
+PERSON,India Miss,1
+PERSON,India Model,1
+PERSON,India Mrs,1
+PERSON,India North,1
+PERSON,India Offer,1
+PERSON,India Order,1
+PERSON,India Pick,1
+PERSON,India Receive,1
+PERSON,India Respond,1
+PERSON,India Run,1
+PERSON,India Sense,1
+PERSON,India Short,1
+PERSON,India Simple,1
+PERSON,India Sing,1
+PERSON,India Skill,1
+PERSON,India Skin,1
+PERSON,India Speech,1
+PERSON,India Strong,1
+PERSON,India Together,1
+PERSON,India Yard,1
+PERSON,Tell Mrs,1

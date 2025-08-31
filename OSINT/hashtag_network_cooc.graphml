@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d3" for="edge" attr.name="relation" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="weight" attr.type="long"/>
+<key id="d0" for="node" attr.name="type" attr.type="string"/>
+<graph edgedefault="undirected"><node id="#freekashmir">
+  <data key="d0">hashtag</data>
+  <data key="d1">129</data>
+  <data key="d2">#freekashmir</data>
+</node>
+<node id="#standwithxyz">
+  <data key="d0">hashtag</data>
+  <data key="d1">129</data>
+  <data key="d2">#standwithxyz</data>
+</node>
+<node id="#humanrights">
+  <data key="d0">hashtag</data>
+  <data key="d1">123</data>
+  <data key="d2">#humanrights</data>
+</node>
+<node id="#resistindia">
+  <data key="d0">hashtag</data>
+  <data key="d1">123</data>
+  <data key="d2">#resistindia</data>
+</node>
+<node id="#boycottindia">
+  <data key="d0">hashtag</data>
+  <data key="d1">122</data>
+  <data key="d2">#boycottindia</data>
+</node>
+<node id="#indiaout">
+  <data key="d0">hashtag</data>
+  <data key="d1">122</data>
+  <data key="d2">#indiaout</data>
+</node>
+<node id="#justicenow">
+  <data key="d0">hashtag</data>
+  <data key="d1">116</data>
+  <data key="d2">#justicenow</data>
+</node>
+<node id="#banbollywood">
+  <data key="d0">hashtag</data>
+  <data key="d1">116</data>
+  <data key="d2">#banbollywood</data>
+</node>
+<node id="#stopindia">
+  <data key="d0">hashtag</data>
+  <data key="d1">110</data>
+  <data key="d2">#stopindia</data>
+</node>
+<node id="#oppression">
+  <data key="d0">hashtag</data>
+  <data key="d1">110</data>
+  <data key="d2">#oppression</data>
+</node>
+<edge source="#freekashmir" target="#standwithxyz">
+  <data key="d3">cooc</data>
+  <data key="d4">129</data>
+</edge>
+<edge source="#humanrights" target="#resistindia">
+  <data key="d3">cooc</data>
+  <data key="d4">123</data>
+</edge>
+<edge source="#boycottindia" target="#indiaout">
+  <data key="d3">cooc</data>
+  <data key="d4">122</data>
+</edge>
+<edge source="#justicenow" target="#banbollywood">
+  <data key="d3">cooc</data>
+  <data key="d4">116</data>
+</edge>
+<edge source="#stopindia" target="#oppression">
+  <data key="d3">cooc</data>
+  <data key="d4">110</data>
+</edge>
+</graph></graphml>

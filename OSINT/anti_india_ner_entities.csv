@@ -1,0 +1,58 @@
+label,entity_norm,count,context
+GPE,India,297,Primary target country in anti-India sentiment
+GPE,Kashmir,15,Referenced in #FreeKashmir hashtags and content
+GPE,America,8,Referenced in comparative contexts
+GPE,Pakistan,5,Regional context and comparative discussions
+GPE,China,4,Geopolitical comparisons
+GPE,United States,3,International relations context
+GPE,South Asia,2,Regional geographic reference
+LOC,South,2,Geographic directional reference
+LOC,East,3,Geographic directional reference  
+LOC,North,2,Geographic directional reference
+LOC,Pacific Ocean,1,Geographic landmark reference
+LOC,Mount Everest,1,Geographic landmark reference
+ORG,Congress,9,Indian political organization
+ORG,Amnesty International,2,Human rights organization mentioned in context
+ORG,Human Rights Watch,3,Human rights organization cited in content
+ORG,Global Justice Forum,4,Activist organization referenced in sources
+ORG,AsiaWatch Network,2,Regional monitoring organization
+ORG,GlobalNewsNet,3,Media organization mentioned
+ORG,International Herald,2,News publication cited
+ORG,Sea TV,1,Media outlet referenced
+ORG,Freedom Voice,2,Activist media organization
+ORG,BJP,6,Indian political party referenced
+ORG,RSS,4,Indian organization mentioned critically
+ORG,Indian Army,5,Military organization in negative context
+ORG,Indian Government,8,Government entity criticized
+ORG,Parliament,3,Indian legislative body
+ORG,Supreme Court,2,Indian judicial institution
+ORG,Reserve Bank of India,1,Financial institution
+ORG,ISRO,2,Indian space organization
+ORG,Google,2,Tech company in boycott context
+ORG,Microsoft,1,Tech company mentioned
+ORG,Netflix,3,Entertainment company in boycott calls
+ORG,Bollywood,12,Entertainment industry targeted for boycott
+ORG,Cricket Board,2,Sports organization
+ORG,United Nations,4,International organization citing violations
+ORG,World Bank,1,International financial institution
+ORG,International Monetary Fund,1,Economic organization
+PERSON,Modi,18,Indian Prime Minister frequently criticized
+PERSON,Gandhi,8,Historical and political figure references
+PERSON,Nehru,4,Former Indian Prime Minister
+PERSON,Shah,6,Indian political leader
+PERSON,Yogi,3,Indian political figure   
+PERSON,Mrs Gandhi,4,Former Prime Minister reference
+PERSON,Rajiv Gandhi,2,Former Prime Minister
+PERSON,Indira Gandhi,3,Former Prime Minister
+PERSON,Manmohan Singh,2,Former Prime Minister
+PERSON,Vajpayee,2,Former Prime Minister
+PERSON,Khan,5,Pakistani leader references in comparisons
+PERSON,Xi Jinping,2,Chinese leader in geopolitical context
+PERSON,Trump,3,US President in international relations
+PERSON,Biden,2,US President in policy discussions
+PERSON,Imran Khan,3,Pakistani PM in comparative context
+PERSON,Malala,2,Pakistani activist cited
+PERSON,Arundhati Roy,2,Indian activist and author
+PERSON,Priyanka Gandhi,2,Indian political figure
+PERSON,Rahul Gandhi,4,Indian political leader
+PERSON,Amit Shah,3,Indian political leader

@@ -1,0 +1,6 @@
+tag1,tag2,cooc,freq_tag1,freq_tag2,jaccard,pmi
+#oppression,#stopindia,110,110,110,1.0,2.4474589769712214
+#banbollywood,#justicenow,116,116,116,1.0,2.3708376953683086
+#boycottindia,#indiaout,122,122,122,1.0,2.2980813529329946
+#humanrights,#resistindia,123,123,123,1.0,2.286304185156641
+#freekashmir,#standwithxyz,129,129,129,1.0,2.217591435072627

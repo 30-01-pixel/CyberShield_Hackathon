@@ -1,0 +1,33 @@
+{
+  "97cd739e": {
+    "base_name": "data",
+    "num_splits": 10,
+    "split_files": [
+      "/Users/pradhumngupta/Desktop/Coding/Hackathon/data/splits/data_97cd739e_split_1.csv",
+      "/Users/pradhumngupta/Desktop/Coding/Hackathon/data/splits/data_97cd739e_split_10.csv",
+      "/Users/pradhumngupta/Desktop/Coding/Hackathon/data/splits/data_97cd739e_split_2.csv",
+      "/Users/pradhumngupta/Desktop/Coding/Hackathon/data/splits/data_97cd739e_split_3.csv",
+      "/Users/pradhumngupta/Desktop/Coding/Hackathon/data/splits/data_97cd739e_split_4.csv",
+      "/Users/pradhumngupta/Desktop/Coding/Hackathon/data/splits/data_97cd739e_split_5.csv",
+      "/Users/pradhumngupta/Desktop/Coding/Hackathon/data/splits/data_97cd739e_split_6.csv",
+      "/Users/pradhumngupta/Desktop/Coding/Hackathon/data/splits/data_97cd739e_split_7.csv",
+      "/Users/pradhumngupta/Desktop/Coding/Hackathon/data/splits/data_97cd739e_split_8.csv",
+      "/Users/pradhumngupta/Desktop/Coding/Hackathon/data/splits/data_97cd739e_split_9.csv"
+    ],
+    "analyzed_files": [
+      "/Users/pradhumngupta/Desktop/Coding/Hackathon/data/analyzed/data_97cd739e_split_1.csv",
+      "/Users/pradhumngupta/Desktop/Coding/Hackathon/data/analyzed/data_97cd739e_split_10.csv",
+      "/Users/pradhumngupta/Desktop/Coding/Hackathon/data/analyzed/data_97cd739e_split_2.csv",
+      "/Users/pradhumngupta/Desktop/Coding/Hackathon/data/analyzed/data_97cd739e_split_3.csv",
+      "/Users/pradhumngupta/Desktop/Coding/Hackathon/data/analyzed/data_97cd739e_split_4.csv",
+      "/Users/pradhumngupta/Desktop/Coding/Hackathon/data/analyzed/data_97cd739e_split_5.csv",
+      "/Users/pradhumngupta/Desktop/Coding/Hackathon/data/analyzed/data_97cd739e_split_6.csv",
+      "/Users/pradhumngupta/Desktop/Coding/Hackathon/data/analyzed/data_97cd739e_split_7.csv",
+      "/Users/pradhumngupta/Desktop/Coding/Hackathon/data/analyzed/data_97cd739e_split_8.csv",
+      "/Users/pradhumngupta/Desktop/Coding/Hackathon/data/analyzed/data_97cd739e_split_9.csv"
+    ],
+    "total_rows": 610,
+    "served_splits": [],
+    "status": "analyzed"
+  }
+}

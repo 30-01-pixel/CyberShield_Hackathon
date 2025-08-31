@@ -1,0 +1,33 @@
+Label,Eccentricity,Closeness Centrality,Betweenness Centrality,Modularity Class
+Cyberwatcher,2,0.907258,5.946888,0
+Freedom123,2,0.907258,5.946888,0
+Globalvoice,2,0.806452,3.447619,0
+Jane_doe,2,0.936524,3.974161,1
+John_doe,2,0.936524,3.974161,1
+Tech_sentinel,2,0.708104,0.0,1
+Truth_warrior,2,0.879765,1.596888,0
+Unnamed: 0,0,0.0,0.0,2
+cyberwatcher,2,0.907258,5.946888,0
+cyberwatcher1,2,0.764007,0.0,0
+freedom123,2,0.907258,5.946888,0
+freedom1231,2,0.936524,3.974161,1
+freedom123123,2,0.879765,2.635524,0
+globalvoice,2,0.806452,3.447619,0
+globalvoice1,3,0.518433,0.0,0
+jane.doe,3,0.631136,0.0,1
+jane_doe,2,0.85389,2.635566,1
+jane_doe1,2,0.879765,2.635524,0
+jane_doe123,2,0.936524,3.974161,1
+jane_doe_,2,0.936524,3.974161,1
+jane_doe_official,2,0.708104,0.0,1
+john.doe,3,0.631136,0.0,1
+john_doe1,2,0.879765,2.635524,0
+john_doe123,2,0.936524,3.974161,1
+john_doe_,2,0.936524,3.974161,1
+john_doe_official,2,0.784656,0.205263,0
+justice_now,2,0.829493,2.188887,1
+realjane_doe,2,0.764007,0.0,0
+realjohn_doe,2,0.879765,1.596888,0
+tech_sentinel,2,0.879765,1.596888,0
+truth.warrior,2,0.806452,1.79697,1
+truth_warrior,2,0.936524,3.974161,1

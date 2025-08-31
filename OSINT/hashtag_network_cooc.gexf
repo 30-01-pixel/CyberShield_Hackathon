@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-08-23">
+    <creator>NetworkX 2.8.8</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="2" title="relation" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+      <attribute id="1" title="weight" type="long" />
+    </attributes>
+    <nodes>
+      <node id="#freekashmir" label="#freekashmir">
+        <attvalues>
+          <attvalue for="0" value="hashtag" />
+          <attvalue for="1" value="129" />
+        </attvalues>
+      </node>
+      <node id="#standwithxyz" label="#standwithxyz">
+        <attvalues>
+          <attvalue for="0" value="hashtag" />
+          <attvalue for="1" value="129" />
+        </attvalues>
+      </node>
+      <node id="#humanrights" label="#humanrights">
+        <attvalues>
+          <attvalue for="0" value="hashtag" />
+          <attvalue for="1" value="123" />
+        </attvalues>
+      </node>
+      <node id="#resistindia" label="#resistindia">
+        <attvalues>
+          <attvalue for="0" value="hashtag" />
+          <attvalue for="1" value="123" />
+        </attvalues>
+      </node>
+      <node id="#boycottindia" label="#boycottindia">
+        <attvalues>
+          <attvalue for="0" value="hashtag" />
+          <attvalue for="1" value="122" />
+        </attvalues>
+      </node>
+      <node id="#indiaout" label="#indiaout">
+        <attvalues>
+          <attvalue for="0" value="hashtag" />
+          <attvalue for="1" value="122" />
+        </attvalues>
+      </node>
+      <node id="#justicenow" label="#justicenow">
+        <attvalues>
+          <attvalue for="0" value="hashtag" />
+          <attvalue for="1" value="116" />
+        </attvalues>
+      </node>
+      <node id="#banbollywood" label="#banbollywood">
+        <attvalues>
+          <attvalue for="0" value="hashtag" />
+          <attvalue for="1" value="116" />
+        </attvalues>
+      </node>
+      <node id="#stopindia" label="#stopindia">
+        <attvalues>
+          <attvalue for="0" value="hashtag" />
+          <attvalue for="1" value="110" />
+        </attvalues>
+      </node>
+      <node id="#oppression" label="#oppression">
+        <attvalues>
+          <attvalue for="0" value="hashtag" />
+          <attvalue for="1" value="110" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="#freekashmir" target="#standwithxyz" id="0" weight="129">
+        <attvalues>
+          <attvalue for="2" value="cooc" />
+        </attvalues>
+      </edge>
+      <edge source="#humanrights" target="#resistindia" id="1" weight="123">
+        <attvalues>
+          <attvalue for="2" value="cooc" />
+        </attvalues>
+      </edge>
+      <edge source="#boycottindia" target="#indiaout" id="2" weight="122">
+        <attvalues>
+          <attvalue for="2" value="cooc" />
+        </attvalues>
+      </edge>
+      <edge source="#justicenow" target="#banbollywood" id="3" weight="116">
+        <attvalues>
+          <attvalue for="2" value="cooc" />
+        </attvalues>
+      </edge>
+      <edge source="#stopindia" target="#oppression" id="4" weight="110">
+        <attvalues>
+          <attvalue for="2" value="cooc" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
